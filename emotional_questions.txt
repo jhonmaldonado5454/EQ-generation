@@ -1,0 +1,36 @@
+Prompt: Generate an emotional intelligence question about empathy.
+Question: What is the most important attribute of empathy?
+
+Prompt: Write a question that helps evaluate someone's emotional self-awareness.
+Question: What is the most important factor that determines a person's emotional self-awareness?
+
+Prompt: Create a reflective question about handling stress and emotions.
+Question: What is the most important thing that you can do to help yourself cope with stress?
+
+Prompt: Ask a question to explore emotional triggers in daily life.
+Question: What is the most common reason for a person to be upset?
+
+Prompt: Write an emotional intelligence interview question.
+Question: What is the most important factor that a person needs to know about their emotional state?
+
+Prompt: Generate a question about recognizing emotions in others.
+Question: What is the most important thing to do when you are a child?
+
+Prompt: Ask a question that encourages reflection on personal growth.
+Question: What is the most important factor that can help you to grow?
+
+Prompt: Create a question about managing frustration in a healthy way.
+Question: What is the best way to deal with frustration?
+
+Prompt: Write a question about staying motivated during hard times.
+Question: What is the most important thing that you can do to stay motivated?
+
+Prompt: Ask a question to assess someone's ability to express feelings.
+Question: What is the most important factor in determining a person's ability to express themselves?
+
+Prompt: Generate a question about resolving emotional conflicts.
+Question: What is the most common way to resolve emotional conflicts?
+
+Prompt: Write a question to explore emotional reactions in relationships.
+Question: What is the most likely emotion in a relationship?
+
